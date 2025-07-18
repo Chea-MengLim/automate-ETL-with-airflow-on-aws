@@ -1,0 +1,381 @@
+[2025-07-18T08:59:50.234+0700] {processor.py:161} INFO - Started process (PID=2894) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T08:59:50.235+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T08:59:50.237+0700] {logging_mixin.py:188} INFO - [2025-07-18T08:59:50.237+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T08:59:50.521+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T08:59:50.531+0700] {logging_mixin.py:188} INFO - [2025-07-18T08:59:50.530+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T08:59:50.545+0700] {logging_mixin.py:188} INFO - [2025-07-18T08:59:50.545+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T08:59:50.575+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.346 seconds
+[2025-07-18T09:00:50.387+0700] {processor.py:161} INFO - Started process (PID=3287) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:00:50.390+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:00:50.391+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:00:50.390+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:00:50.651+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:00:50.696+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:00:50.696+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:00:50.704+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:00:50.704+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:00:50.734+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.350 seconds
+[2025-07-18T09:01:38.484+0700] {processor.py:161} INFO - Started process (PID=3364) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:01:38.487+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:01:38.487+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:01:38.487+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:01:38.789+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:01:38.797+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:01:38.797+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:01:38.808+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:01:38.808+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:01:38.830+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.349 seconds
+[2025-07-18T09:02:08.195+0700] {processor.py:161} INFO - Started process (PID=3451) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:02:08.195+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:02:08.196+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:02:08.196+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:02:08.558+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:02:08.588+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:02:08.587+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:02:08.612+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:02:08.612+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:02:08.640+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.448 seconds
+[2025-07-18T09:02:43.913+0700] {processor.py:161} INFO - Started process (PID=3561) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:02:43.916+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:02:43.917+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:02:43.916+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:02:44.187+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:02:44.194+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:02:44.194+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:02:44.205+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:02:44.205+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:02:44.227+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.317 seconds
+[2025-07-18T09:03:38.992+0700] {processor.py:161} INFO - Started process (PID=3646) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:03:38.994+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:03:38.995+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:03:38.995+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:03:39.308+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:03:39.316+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:03:39.316+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:03:39.326+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:03:39.325+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:03:39.347+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.359 seconds
+[2025-07-18T09:04:31.315+0700] {processor.py:161} INFO - Started process (PID=3748) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:04:31.316+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:04:31.317+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:04:31.317+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:04:31.631+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:04:31.639+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:04:31.639+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:04:31.650+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:04:31.650+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:04:31.672+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.361 seconds
+[2025-07-18T09:05:31.079+0700] {processor.py:161} INFO - Started process (PID=3870) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:05:31.080+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:05:31.082+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:05:31.081+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:05:31.090+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:05:31.087+0700] {dagbag.py:355} ERROR - Failed to import: /home/menglim/airflow/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/home/menglim/airflow_venv/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/menglim/airflow/dags/weather_dag.py", line 6, in <module>
+    from airflow.providers.amazon.aws.hooks.s3 import S3Hook
+ModuleNotFoundError: No module named 'airflow.providers.amazon'
+[2025-07-18T09:05:31.091+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:05:31.130+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.060 seconds
+[2025-07-18T09:05:59.339+0700] {processor.py:161} INFO - Started process (PID=3903) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:05:59.341+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:05:59.342+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:05:59.342+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:05:59.348+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:05:59.347+0700] {dagbag.py:355} ERROR - Failed to import: /home/menglim/airflow/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/home/menglim/airflow_venv/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/menglim/airflow/dags/weather_dag.py", line 6, in <module>
+    from airflow.providers.amazon.aws.hooks.s3 import S3Hook
+ModuleNotFoundError: No module named 'airflow.providers.amazon'
+[2025-07-18T09:05:59.348+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:05:59.368+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.033 seconds
+[2025-07-18T09:06:52.757+0700] {processor.py:161} INFO - Started process (PID=3983) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:06:52.761+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:06:52.763+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:06:52.762+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:06:53.043+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:06:53.098+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:06:53.097+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:06:53.106+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:06:53.106+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:06:53.142+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.396 seconds
+[2025-07-18T09:07:22.479+0700] {processor.py:161} INFO - Started process (PID=4061) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:07:22.483+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:07:22.485+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:07:22.484+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:07:23.130+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:07:23.148+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:07:23.147+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:07:23.170+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:07:23.169+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:07:23.223+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.750 seconds
+[2025-07-18T09:07:53.363+0700] {processor.py:161} INFO - Started process (PID=4109) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:07:53.365+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:07:53.366+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:07:53.365+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:07:53.642+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:07:53.649+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:07:53.649+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:07:53.666+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:07:53.665+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:07:53.689+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.330 seconds
+[2025-07-18T09:08:23.235+0700] {processor.py:161} INFO - Started process (PID=4173) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:08:23.237+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:08:23.238+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:08:23.237+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:08:23.244+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:08:23.242+0700] {dagbag.py:355} ERROR - Failed to import: /home/menglim/airflow/dags/weather_dag.py
+Traceback (most recent call last):
+  File "/home/menglim/airflow_venv/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/menglim/airflow/dags/weather_dag.py", line 90
+    is_weather_api_ready >> extract_weather_data >> transform_load_weather_data
+                                                                               ^
+IndentationError: unindent does not match any outer indentation level
+[2025-07-18T09:08:23.244+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:08:23.280+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.053 seconds
+[2025-07-18T09:08:49.108+0700] {processor.py:161} INFO - Started process (PID=4209) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:08:49.111+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:08:49.112+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:08:49.111+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:08:49.373+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:08:49.381+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:08:49.380+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:08:49.390+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:08:49.390+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:08:49.421+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.315 seconds
+[2025-07-18T09:09:40.061+0700] {processor.py:161} INFO - Started process (PID=4308) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:09:40.062+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:09:40.063+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:09:40.063+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:09:40.389+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:09:40.398+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:09:40.397+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:09:40.410+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:09:40.410+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:09:40.431+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.373 seconds
+[2025-07-18T09:10:29.457+0700] {processor.py:161} INFO - Started process (PID=4392) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:10:29.459+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:10:29.459+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:10:29.459+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:10:29.743+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:10:29.753+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:10:29.753+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:10:29.764+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:10:29.764+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:10:29.786+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.333 seconds
+[2025-07-18T09:11:02.625+0700] {processor.py:161} INFO - Started process (PID=4506) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:11:02.629+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:11:02.629+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:11:02.629+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:11:02.939+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:11:02.947+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:11:02.947+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:11:02.959+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:11:02.959+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:11:02.981+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.362 seconds
+[2025-07-18T09:11:35.503+0700] {processor.py:161} INFO - Started process (PID=4553) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:11:35.505+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:11:35.506+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:11:35.506+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:11:35.783+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:11:35.791+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:11:35.790+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:11:35.800+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:11:35.800+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:11:35.822+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.322 seconds
+[2025-07-18T09:12:30.294+0700] {processor.py:161} INFO - Started process (PID=4636) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:12:30.297+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:12:30.297+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:12:30.297+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:12:30.568+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:12:30.575+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:12:30.575+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:12:30.586+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:12:30.586+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:12:30.606+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.315 seconds
+[2025-07-18T09:13:25.992+0700] {processor.py:161} INFO - Started process (PID=5197) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:13:25.994+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:13:25.995+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:13:25.994+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:13:26.296+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:13:26.304+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:13:26.303+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:13:26.314+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:13:26.313+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:13:26.339+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.351 seconds
+[2025-07-18T09:14:04.870+0700] {processor.py:161} INFO - Started process (PID=5317) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:14:04.872+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:14:04.873+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:14:04.872+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:14:05.146+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:14:05.154+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:14:05.153+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:14:05.163+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:14:05.163+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:14:05.183+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.317 seconds
+[2025-07-18T09:14:38.196+0700] {processor.py:161} INFO - Started process (PID=5367) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:14:38.199+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:14:38.199+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:14:38.199+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:14:38.471+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:14:38.479+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:14:38.479+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:14:38.488+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:14:38.488+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:14:38.511+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.317 seconds
+[2025-07-18T09:15:37.121+0700] {processor.py:161} INFO - Started process (PID=5481) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:15:37.122+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:15:37.123+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:15:37.122+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:15:37.523+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:15:37.533+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:15:37.532+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:15:37.547+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:15:37.547+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:15:37.572+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.454 seconds
+[2025-07-18T09:16:12.433+0700] {processor.py:161} INFO - Started process (PID=5558) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:16:12.435+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:16:12.436+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:16:12.435+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:16:12.703+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:16:12.712+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:16:12.712+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:16:12.723+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:16:12.723+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:16:12.743+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.313 seconds
+[2025-07-18T09:16:48.510+0700] {processor.py:161} INFO - Started process (PID=5628) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:16:48.513+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:16:48.514+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:16:48.513+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:16:48.871+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:16:48.878+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:16:48.878+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:16:48.888+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:16:48.888+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:16:48.915+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.411 seconds
+[2025-07-18T09:17:37.547+0700] {processor.py:161} INFO - Started process (PID=5833) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:17:37.550+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:17:37.551+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:17:37.551+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:17:37.816+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:17:37.824+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:17:37.824+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:17:37.833+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:17:37.833+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:17:37.854+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.311 seconds
+[2025-07-18T09:18:41.015+0700] {processor.py:161} INFO - Started process (PID=5953) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:18:41.017+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:18:41.018+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:18:41.017+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:18:41.288+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:18:41.296+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:18:41.295+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:18:41.306+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:18:41.306+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:18:41.331+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.319 seconds
+[2025-07-18T09:19:23.285+0700] {processor.py:161} INFO - Started process (PID=6057) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:19:23.286+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:19:23.286+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:19:23.286+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:19:23.547+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:19:23.554+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:19:23.553+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:19:23.563+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:19:23.563+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:19:23.583+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.302 seconds
+[2025-07-18T09:19:55.857+0700] {processor.py:161} INFO - Started process (PID=6118) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:19:55.860+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:19:55.860+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:19:55.860+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:19:56.142+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:19:56.150+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:19:56.150+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:19:56.160+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:19:56.160+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:19:56.194+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.341 seconds
+[2025-07-18T09:20:52.473+0700] {processor.py:161} INFO - Started process (PID=6240) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:20:52.473+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:20:52.474+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:20:52.474+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:20:52.679+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:20:52.691+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:20:52.691+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:20:52.705+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:20:52.705+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:20:52.728+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.259 seconds
+[2025-07-18T09:21:31.939+0700] {processor.py:161} INFO - Started process (PID=6397) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:21:31.942+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:21:31.943+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:21:31.942+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:21:32.163+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:21:32.174+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:21:32.174+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:21:32.189+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:21:32.189+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:21:32.215+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.280 seconds
+[2025-07-18T09:22:18.579+0700] {processor.py:161} INFO - Started process (PID=6556) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:22:18.582+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:22:18.582+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:22:18.582+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:22:18.793+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:22:18.803+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:22:18.803+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:22:18.816+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:22:18.816+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:22:18.841+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.266 seconds
+[2025-07-18T09:22:55.318+0700] {processor.py:161} INFO - Started process (PID=6623) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:22:55.320+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:22:55.321+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:22:55.321+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:22:55.495+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:22:55.508+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:22:55.508+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:22:55.520+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:22:55.520+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:22:55.543+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.228 seconds
+[2025-07-18T09:23:29.733+0700] {processor.py:161} INFO - Started process (PID=6729) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:23:29.735+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:23:29.736+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:23:29.735+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:23:30.071+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:23:30.111+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:23:30.109+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:23:30.144+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:23:30.144+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:23:30.171+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.442 seconds
+[2025-07-18T09:24:10.481+0700] {processor.py:161} INFO - Started process (PID=6839) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:24:10.483+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:24:10.484+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:24:10.484+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:24:10.677+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:24:10.691+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:24:10.690+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:24:10.704+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:24:10.704+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:24:10.729+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.251 seconds
+[2025-07-18T09:24:46.304+0700] {processor.py:161} INFO - Started process (PID=6934) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:24:46.306+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:24:46.307+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:24:46.307+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:24:46.490+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:24:46.500+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:24:46.500+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:24:46.513+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:24:46.513+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:24:46.534+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.234 seconds
+[2025-07-18T09:25:45.889+0700] {processor.py:161} INFO - Started process (PID=7106) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:25:45.893+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:25:45.893+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:25:45.893+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:25:46.103+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:25:46.115+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:25:46.114+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:25:46.127+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:25:46.127+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:25:46.151+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.265 seconds
+[2025-07-18T09:26:19.391+0700] {processor.py:161} INFO - Started process (PID=7153) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:26:19.394+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:26:19.394+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:26:19.394+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:26:19.575+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:26:19.587+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:26:19.587+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:26:19.601+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:26:19.601+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:26:19.624+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.237 seconds
+[2025-07-18T09:27:17.754+0700] {processor.py:161} INFO - Started process (PID=7286) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:27:17.755+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:27:17.756+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:27:17.756+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:27:17.934+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:27:17.944+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:27:17.943+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:27:17.958+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:27:17.957+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:27:17.979+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.228 seconds
+[2025-07-18T09:28:03.990+0700] {processor.py:161} INFO - Started process (PID=7348) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:28:03.993+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:28:03.994+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:28:03.993+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:28:04.168+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:28:04.179+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:28:04.179+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:28:04.190+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:28:04.190+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:28:04.214+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.226 seconds
+[2025-07-18T09:28:41.507+0700] {processor.py:161} INFO - Started process (PID=7419) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:28:41.510+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:28:41.510+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:28:41.510+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:28:41.685+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:28:41.696+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:28:41.696+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:28:41.709+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:28:41.709+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:28:41.733+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.229 seconds
+[2025-07-18T09:29:31.247+0700] {processor.py:161} INFO - Started process (PID=7518) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:29:31.250+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:29:31.250+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:29:31.250+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:29:31.441+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:29:31.453+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:29:31.452+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:29:31.466+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:29:31.466+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:29:31.491+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.247 seconds
+[2025-07-18T09:30:20.005+0700] {processor.py:161} INFO - Started process (PID=7580) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:30:20.007+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:30:20.008+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:30:20.007+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:30:20.192+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:30:20.203+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:30:20.202+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:30:20.215+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:30:20.215+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:30:20.238+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.237 seconds
+[2025-07-18T09:31:08.009+0700] {processor.py:161} INFO - Started process (PID=7657) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:31:08.012+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:31:08.012+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:31:08.012+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:31:08.203+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:31:08.215+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:31:08.215+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:31:08.228+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:31:08.228+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:31:08.252+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.246 seconds
+[2025-07-18T09:32:00.020+0700] {processor.py:161} INFO - Started process (PID=7737) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:32:00.023+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:32:00.023+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:32:00.023+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:32:00.213+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:32:00.225+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:32:00.224+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:32:00.238+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:32:00.238+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:32:00.460+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.444 seconds
+[2025-07-18T09:32:50.963+0700] {processor.py:161} INFO - Started process (PID=7818) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:32:50.965+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:32:50.966+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:32:50.966+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:32:51.141+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:32:51.152+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:32:51.152+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:32:51.164+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:32:51.164+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:32:51.186+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.227 seconds
+[2025-07-18T09:33:41.140+0700] {processor.py:161} INFO - Started process (PID=7895) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:33:41.142+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:33:41.143+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:33:41.142+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:33:41.325+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:33:41.337+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:33:41.337+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:33:41.442+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:33:41.442+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:33:41.462+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.326 seconds
+[2025-07-18T09:34:32.606+0700] {processor.py:161} INFO - Started process (PID=8050) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:34:32.608+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:34:32.608+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:34:32.608+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:34:32.800+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:34:32.812+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:34:32.811+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:34:32.825+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:34:32.825+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:34:32.949+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.347 seconds
+[2025-07-18T09:35:24.154+0700] {processor.py:161} INFO - Started process (PID=8130) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:35:24.155+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:35:24.156+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:35:24.156+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:35:24.379+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:35:24.501+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:35:24.501+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:35:24.511+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:35:24.511+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:35:24.536+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.385 seconds
+[2025-07-18T09:36:17.658+0700] {processor.py:161} INFO - Started process (PID=8224) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:36:17.662+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:36:17.664+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:36:17.663+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:36:17.865+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:36:17.876+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:36:17.876+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:36:17.988+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:36:17.988+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:36:18.008+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 0.354 seconds
+[2025-07-18T09:37:18.899+0700] {processor.py:161} INFO - Started process (PID=8320) to work on /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:37:18.903+0700] {processor.py:830} INFO - Processing file /home/menglim/airflow/dags/weather_dag.py for tasks to queue
+[2025-07-18T09:37:18.905+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:37:18.904+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:37:19.956+0700] {processor.py:840} INFO - DAG(s) 'weather_dag' retrieved from /home/menglim/airflow/dags/weather_dag.py
+[2025-07-18T09:37:19.981+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:37:19.979+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T09:37:20.039+0700] {logging_mixin.py:188} INFO - [2025-07-18T09:37:20.037+0700] {dag.py:3954} INFO - Setting next_dagrun for weather_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T09:37:20.124+0700] {processor.py:183} INFO - Processing /home/menglim/airflow/dags/weather_dag.py took 1.240 seconds

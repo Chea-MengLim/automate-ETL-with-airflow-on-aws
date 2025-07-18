@@ -1,0 +1,21 @@
+[2025-07-17T14:28:42.775+0700] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-07-17T14:28:42.781+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: weather_dag.extract_weather_data manual__2025-07-17T07:28:38.244023+00:00 [queued]>
+[2025-07-17T14:28:42.785+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: weather_dag.extract_weather_data manual__2025-07-17T07:28:38.244023+00:00 [queued]>
+[2025-07-17T14:28:42.785+0700] {taskinstance.py:2306} INFO - Starting attempt 1 of 3
+[2025-07-17T14:28:42.806+0700] {taskinstance.py:2330} INFO - Executing <Task(SimpleHttpOperator): extract_weather_data> on 2025-07-17 07:28:38.244023+00:00
+[2025-07-17T14:28:42.810+0700] {standard_task_runner.py:63} INFO - Started process 7146 to run task
+[2025-07-17T14:28:42.812+0700] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'weather_dag', 'extract_weather_data', 'manual__2025-07-17T07:28:38.244023+00:00', '--job-id', '19', '--raw', '--subdir', 'DAGS_FOLDER/weather_dag.py', '--cfg-path', '/tmp/tmp4eo4u0ho']
+[2025-07-17T14:28:42.812+0700] {standard_task_runner.py:91} INFO - Job 19: Subtask extract_weather_data
+[2025-07-17T14:28:42.847+0700] {task_command.py:426} INFO - Running <TaskInstance: weather_dag.extract_weather_data manual__2025-07-17T07:28:38.244023+00:00 [running]> on host MSI.
+[2025-07-17T14:28:42.900+0700] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_EMAIL='menglimchea@gmail.com' AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='weather_dag' AIRFLOW_CTX_TASK_ID='extract_weather_data' AIRFLOW_CTX_EXECUTION_DATE='2025-07-17T07:28:38.244023+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-07-17T07:28:38.244023+00:00'
+[2025-07-17T14:28:42.901+0700] {taskinstance.py:430} INFO - ::endgroup::
+[2025-07-17T14:28:42.902+0700] {http.py:169} INFO - Calling HTTP method
+[2025-07-17T14:28:42.904+0700] {base.py:84} INFO - Using connection ID 'weathermap_api' for task execution.
+[2025-07-17T14:28:42.906+0700] {base.py:84} INFO - Using connection ID 'weathermap_api' for task execution.
+[2025-07-17T14:28:43.117+0700] {http.py:208} INFO - {"coord":{"lon":104.916,"lat":11.5625},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":307.32,"feels_like":314.32,"temp_min":307.32,"temp_max":307.32,"pressure":1005,"humidity":68,"sea_level":1005,"grnd_level":1003},"visibility":10000,"wind":{"speed":6.92,"deg":226,"gust":7.06},"clouds":{"all":62},"dt":1752737043,"sys":{"country":"KH","sunrise":1752705863,"sunset":1752751688},"timezone":25200,"id":1821306,"name":"Phnom Penh","cod":200}
+[2025-07-17T14:28:43.119+0700] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-07-17T14:28:43.135+0700] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=weather_dag, task_id=extract_weather_data, run_id=manual__2025-07-17T07:28:38.244023+00:00, execution_date=20250717T072838, start_date=20250717T072842, end_date=20250717T072843
+[2025-07-17T14:28:43.185+0700] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2025-07-17T14:28:43.190+0700] {logging_mixin.py:188} WARNING - /home/menglim/airflow_venv/lib/python3.12/site-packages/airflow/models/baseoperator.py:1296 AirflowProviderDeprecationWarning: Call to deprecated class SimpleHttpOperator. (Class `SimpleHttpOperator` is deprecated and will be removed in a future release. Please use `HttpOperator` instead.)
+[2025-07-17T14:28:43.194+0700] {taskinstance.py:3498} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-07-17T14:28:43.212+0700] {local_task_job_runner.py:222} INFO - ::endgroup::
